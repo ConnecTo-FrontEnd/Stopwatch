@@ -1,0 +1,22 @@
+.clock-body {
+  margin: auto;
+  background-color: black;
+  width: 500px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  flex-direction: column;
+  gap: 15px;
+}
+.clock-main {
+  background-color: white;
+  width: 400px;
+  text-align: center;
+}
+button {
+  border: none;
+  background: white;
+  padding: 10px;
+}
