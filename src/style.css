@@ -20,3 +20,7 @@ button {
   background: white;
   padding: 10px;
 }
+
+.displayNone {
+  display: none;
+}
